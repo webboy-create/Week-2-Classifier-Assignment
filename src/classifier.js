@@ -116,7 +116,7 @@ function classifier(input){
 
 
 
-    //oldest
+    //oldest student per group
 
     function getOldest(studentGroup){
 
@@ -174,5 +174,7 @@ function classifier(input){
     // getting the answer
 
     return output
+    
 
 }
+console.log(classifier); 
