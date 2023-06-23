@@ -14,7 +14,7 @@ function classifier(input){
 
     const thisYear = 2019
 
-
+    let student;
 
 
     // automate acquiring and setting age
